@@ -38,7 +38,7 @@ JSON Order List:
 
 Search customer and order by id (+ testing in Postman): https://www.youtube.com/watch?v=wx97XxB7sHw&t=1s&ab_channel=AlonaDytynenko
 
-Entity Mapping:
+Entities Mapping:
 
 <img width="925" alt="Screenshot 2023-01-27 at 20 31 34" src="https://user-images.githubusercontent.com/79933498/215234670-1b357eb5-4e7a-4803-a003-083e207c3064.png">
 
