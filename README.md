@@ -36,3 +36,4 @@ JSON Order List:
 
 <img width="1440" alt="Screenshot 2023-01-27 at 19 36 28" src="https://user-images.githubusercontent.com/79933498/215230380-2f66f7b0-9397-4951-9408-45550d3558d0.png">
 
+Search customer and order by id (+ testing in Postman): https://www.youtube.com/watch?v=wx97XxB7sHw&t=1s&ab_channel=AlonaDytynenko
