@@ -8,7 +8,7 @@ Customer List:
 
 <img width="1440" alt="Screenshot 2023-01-27 at 19 08 42" src="https://user-images.githubusercontent.com/79933498/215229131-ffbb8798-57e1-43af-b02b-329a73f2f654.png">
 
-Add New Customer:
+Add a New Customer:
 
 <img width="1440" alt="Screenshot 2023-01-27 at 19 08 59" src="https://user-images.githubusercontent.com/79933498/215229271-8422f8a4-e7ff-4d6c-89b2-aa6681a5718d.png">
 
